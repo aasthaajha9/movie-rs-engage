@@ -7,7 +7,8 @@ In this challenge , we will build the movie recommendation system using collabor
 HEROKU
 https://www.heroku.com/platform
 
-PYTHON- 3.10 WINDOWS VERSION
+PYTHON 
+3.10 WINDOWS VERSION
 
 STREAMLIT
  https://streamlit.io/
